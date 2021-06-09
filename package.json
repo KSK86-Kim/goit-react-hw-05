@@ -2,7 +2,7 @@
   "name": "goit-react-hw-05",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KSK86-Kim.github.io/KSK86-Kim/goit-react-hw-05",
+  "homepage": "https://KSK86-Kim.github.io/goit-react-hw-05",
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.0",
     "@testing-library/jest-dom": "^5.12.0",
