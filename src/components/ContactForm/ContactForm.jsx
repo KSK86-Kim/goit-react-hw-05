@@ -61,7 +61,7 @@ class ContactForm extends Component {
           <button type="submit">Add contact</button>
         </form>
         <button type="button" onClick={this.handleTest}>
-          Add contact
+          info test
         </button>
       </>
     );
