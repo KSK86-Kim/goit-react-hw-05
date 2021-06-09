@@ -1,0 +1,10 @@
+.input {
+  height: 25px;
+  width: 250px;
+  margin-left: 25px;
+}
+.from {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
