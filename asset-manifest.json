@@ -1,24 +1,24 @@
 {
   "files": {
-    "HomePage.css": "/KSK86-Kim/goit-react-hw-05/static/css/HomePage.bae60ecb.chunk.css",
-    "HomePage.js": "/KSK86-Kim/goit-react-hw-05/static/js/HomePage.97d37e58.chunk.js",
-    "HomePage.js.map": "/KSK86-Kim/goit-react-hw-05/static/js/HomePage.97d37e58.chunk.js.map",
-    "main.css": "/KSK86-Kim/goit-react-hw-05/static/css/main.cdc0c9be.chunk.css",
-    "main.js": "/KSK86-Kim/goit-react-hw-05/static/js/main.8463b764.chunk.js",
-    "main.js.map": "/KSK86-Kim/goit-react-hw-05/static/js/main.8463b764.chunk.js.map",
-    "runtime-main.js": "/KSK86-Kim/goit-react-hw-05/static/js/runtime-main.1ebe8aaa.js",
-    "runtime-main.js.map": "/KSK86-Kim/goit-react-hw-05/static/js/runtime-main.1ebe8aaa.js.map",
-    "static/js/3.820860c2.chunk.js": "/KSK86-Kim/goit-react-hw-05/static/js/3.820860c2.chunk.js",
-    "static/js/3.820860c2.chunk.js.map": "/KSK86-Kim/goit-react-hw-05/static/js/3.820860c2.chunk.js.map",
+    "HomePage.css": "/KSK86-Kim/goit-react-hw-05/static/css/HomePage.cfe93bb0.chunk.css",
+    "HomePage.js": "/KSK86-Kim/goit-react-hw-05/static/js/HomePage.0ad617f9.chunk.js",
+    "HomePage.js.map": "/KSK86-Kim/goit-react-hw-05/static/js/HomePage.0ad617f9.chunk.js.map",
+    "main.css": "/KSK86-Kim/goit-react-hw-05/static/css/main.430e6b97.chunk.css",
+    "main.js": "/KSK86-Kim/goit-react-hw-05/static/js/main.68239ab5.chunk.js",
+    "main.js.map": "/KSK86-Kim/goit-react-hw-05/static/js/main.68239ab5.chunk.js.map",
+    "runtime-main.js": "/KSK86-Kim/goit-react-hw-05/static/js/runtime-main.49d0fc0d.js",
+    "runtime-main.js.map": "/KSK86-Kim/goit-react-hw-05/static/js/runtime-main.49d0fc0d.js.map",
+    "static/js/3.642f10e0.chunk.js": "/KSK86-Kim/goit-react-hw-05/static/js/3.642f10e0.chunk.js",
+    "static/js/3.642f10e0.chunk.js.map": "/KSK86-Kim/goit-react-hw-05/static/js/3.642f10e0.chunk.js.map",
     "index.html": "/KSK86-Kim/goit-react-hw-05/index.html",
-    "static/css/HomePage.bae60ecb.chunk.css.map": "/KSK86-Kim/goit-react-hw-05/static/css/HomePage.bae60ecb.chunk.css.map",
-    "static/css/main.cdc0c9be.chunk.css.map": "/KSK86-Kim/goit-react-hw-05/static/css/main.cdc0c9be.chunk.css.map",
-    "static/js/3.820860c2.chunk.js.LICENSE.txt": "/KSK86-Kim/goit-react-hw-05/static/js/3.820860c2.chunk.js.LICENSE.txt"
+    "static/css/HomePage.cfe93bb0.chunk.css.map": "/KSK86-Kim/goit-react-hw-05/static/css/HomePage.cfe93bb0.chunk.css.map",
+    "static/css/main.430e6b97.chunk.css.map": "/KSK86-Kim/goit-react-hw-05/static/css/main.430e6b97.chunk.css.map",
+    "static/js/3.642f10e0.chunk.js.LICENSE.txt": "/KSK86-Kim/goit-react-hw-05/static/js/3.642f10e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ebe8aaa.js",
-    "static/js/3.820860c2.chunk.js",
-    "static/css/main.cdc0c9be.chunk.css",
-    "static/js/main.8463b764.chunk.js"
+    "static/js/runtime-main.49d0fc0d.js",
+    "static/js/3.642f10e0.chunk.js",
+    "static/css/main.430e6b97.chunk.css",
+    "static/js/main.68239ab5.chunk.js"
   ]
 }
